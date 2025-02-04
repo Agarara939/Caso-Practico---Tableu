@@ -14,3 +14,6 @@ Data Analyst son los empleados que han estado en mayor cantidad de proyectos de 
 
 #### Conclusión 
 Ventas y productos son las dos areas con mayor cantidad de empleados y que mayor gasto en nomina generan. Ambas areas no se les ha involucra en ningun proyecto por lo que podria generar que no haya un desarrollo en su talento. Ademas son las areas que mayor ausencia tienen los empleados.
+
+##### Dashboard
+https://public.tableau.com/app/profile/adrian.garcia.ramos/viz/CasoPractico_17386099141060/Dashboard1?publish=yes
